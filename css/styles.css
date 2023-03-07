@@ -1,5 +1,6 @@
 html,
 body {
+
   margin: 0;
   width: 100%;
 background-color: gray;
@@ -11,20 +12,27 @@ background-color: gray;
   position: relative;
 
 }
+div {
+  text-align: center;
+}
 
+.img-background {
 
+  width: 40%;
+  height: 30%;
   
-
+  
+}
 
 h1 {
   width: 100%;
-  margin-top: 15%;
+  
   position: absolute;
   font-size: 8vw;
   font-weight: bold;
   text-align: center;
-  color: whitesmoke;
-
+  color: rebeccapurple;
+margin-top: 50%;
   letter-spacing: 5px;
 }
 
@@ -32,7 +40,7 @@ h1 {
   width: 100%;
   position: absolute;
   font-size: 9vw;
-  color: whitesmoke;
+  color: rebeccapurple;
   text-align: center;
-  margin-top: 25%;
+  margin-top: 60%;
 }
